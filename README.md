@@ -1,6 +1,7 @@
 ## Hi👋
 I'm an Agronomy Ph.D. candidate at Kansas State University, working on crop management and on-farm data analysis. My research focuses on optimizing agricultural practices through data-driven insights.
 - 📫 How to reach me: evanversendaal@ksu.edu
+- 🌐 Check out my Linktree: https://linktr.ee/emmavanver
 <!--
 **emmavanver/emmavanver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

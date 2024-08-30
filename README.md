@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi👋
 I'm an Agronomy Ph.D. candidate at Kansas State University, working on crop management and on-farm data analysis. My research focuses on optimizing agricultural practices through data-driven insights.
 - 📫 How to reach me: evanversendaal@ksu.edu
 <!--
